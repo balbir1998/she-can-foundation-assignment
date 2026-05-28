@@ -4,9 +4,7 @@ A modern and responsive frontend assignment project built using **React.js**, **
 
 ## 🚀 Live Demo
 
-```bash
 https://she-can-foundation-app.netlify.app/
-```
 
 ---
 
